@@ -1,0 +1,3 @@
+# Force all checkouts to convert to LF line endings
+# Treat these file types as binary
+*.pcap     binary
